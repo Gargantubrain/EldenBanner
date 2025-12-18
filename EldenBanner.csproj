@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <AssemblyName>EldenBanner</AssemblyName>
+    <Authors>Gargantubrain</Authors>
+    <Company>Gargantubrain</Company>
+    <Product>Elden Banner</Product>
+    <Description>A utility to display a stylistic banner and play a sound. (Lite version - requires external font/sound files)</Description>
+    <Copyright>Copyright © 2025</Copyright>
+    <Version>1.0.2</Version>
+  </PropertyGroup>
+
+  <!-- No embedded resources - font and sound must be in same folder as exe -->
+</Project>
+
